@@ -1,6 +1,6 @@
 # PaintForKids
 
-## My first project in college using *Object-Oriented Programming Paradigm* with *C++*
+## My first project in college using *Object-Oriented Programming Paradigm* with *C++* and [*CMU Graphics Library*](https://www.cs.cmu.edu/~cm-gfxpkg/index.html)
 
 ## It's a simple application that enables kids draw fancy shapes and also play some simple games with those shapes
 
